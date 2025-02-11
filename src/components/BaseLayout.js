@@ -49,7 +49,7 @@ export default function BaseLayout() {
             <Grid item>
                <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                   py={'1.5rem'} sx={{ opacity: 0.7 }} width={'100%'}>
-                  <p>template created with &hearts; by <a href={'https://www.instagram.com/vasanth_kumar.27?igsh=MXB0aTdwYzZheGk1dg=='}>Vasanth Kumar</a></p>
+                  <p>template created with &hearts; by <a href={'https://www.instagram.com/karunakar_medhuru/?__pwa=1'}>Karunakar</a></p>
                   <p>&copy; 2024</p>
                </Box>
             </Grid>
